@@ -1,22 +1,11 @@
-# Project Title
+# Lapidum Web App
 
-Brief description or introduction to your project.
+Aplicação básica para testar se a LAPIDUM poderá ter seu sistema em Web.
 
-## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Instalação
 
-## Features
-
-- List key features or functionalities of your project.
-
-## Installation
-
-Provide step-by-step instructions on how to install your project. Include any dependencies and configuration steps if necessary.
+Passo a passo da instalação
 
 ```bash
 # Example installation command or code snippet
