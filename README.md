@@ -14,6 +14,7 @@ flask db init
 flask db migrate -m "Initial migration"
 flask db upgrade
 flask run
+```
 
 
 Frontend: Buscar tutorial de instalação de React (é um pouco mais complicado)
@@ -22,3 +23,4 @@ Frontend: Buscar tutorial de instalação de React (é um pouco mais complicado)
 cd frontend
 npx create-react-app .
 npm start
+```
